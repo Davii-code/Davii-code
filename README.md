@@ -1,7 +1,7 @@
 ### Olá meu nome é Davi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-faria-goncalves/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davifariagoncalves@gmail.com)
+
 <hr></hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davii-code&show_icons=true&theme=radical)
