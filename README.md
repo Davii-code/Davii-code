@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim  
 
-Desenvolvedor Full Stack com ampla experiência em **Angular** e **Java**, apaixonado por **tecnologia**, **inovação** e **soluções impactantes**. Minha trajetória abrange mais de **10 anos em desenvolvimento**, incluindo frameworks como **Apache Wicket**, além de sólidas habilidades em **SQL**, **manipulação de XML**, e integração de sistemas.  
+Desenvolvedor Full Stack com ampla experiência em **Angular** e **Java**, apaixonado por **tecnologia**, **inovação** e **soluções impactantes**. Minha trajetória abrange mais de **2 anos em desenvolvimento**, incluindo frameworks como **Apache Wicket**, além de sólidas habilidades em **SQL**, **manipulação de XML**, e integração de sistemas.  
 
 Atualmente, trabalho na Unika Sistemas, onde sou responsável pela **manutenção e evolução do ERP da empresa**, além de lidar com **consultas SQL complexas**, **integrações** e **metodologias ágeis** como Scrum e Kanban.  
 
